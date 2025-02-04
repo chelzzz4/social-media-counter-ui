@@ -24,7 +24,11 @@ body {
 
 .counter {
     font-size: 60px;
-    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+i {
+    margin-bottom: 8px;
 }
 
 @media screen and (max-width: 550px) {
